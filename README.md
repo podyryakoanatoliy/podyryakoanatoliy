@@ -7,6 +7,18 @@ I have hands-on experience building modern web applications using React and Next
 
 
           
-## 🛠 Skills
-Javascript, HTML, CSS...
+
+
+## 🛠 Tech Stack
+
+**Client:** ![React](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg) ![React](https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg)
+
+## Server:  Node, Express, REST API
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square) ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
 
