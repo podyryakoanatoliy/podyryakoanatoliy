@@ -20,9 +20,11 @@ I have hands-on experience building modern web applications using React and Next
 ![TS](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=blue&logoSize=auto&labelColor=white
 )
 
-🗣️ Languages
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
-  
 
+## 🗣️ Languages
+![English](https://img.shields.io/badge/English-B1-blue?style=plastic&labelColor=grey
+)
   
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=plastic&labelColor=grey
+)
+
