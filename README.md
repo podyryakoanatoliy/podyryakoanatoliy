@@ -24,10 +24,10 @@ I have hands-on experience building modern web applications using React and Next
 ## 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B1-blue?style=plastic&labelColor=grey
 )
-  |
+  
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=plastic&labelColor=grey
 )
 
 ## ✉ How to reach me: 
-[LinkedIn](www.linkedin.com/in/anatolii-podyriako) | [Telegram](https://t.me/zipper1899) | [Email](mailto:podyryakoanatoliy@gmail.com)
+[LinkedIn](www.linkedin.com/in/anatolii-podyriako/) | [Telegram](https://t.me/zipper1899) | [Email](mailto:podyryakoanatoliy@gmail.com)
 
