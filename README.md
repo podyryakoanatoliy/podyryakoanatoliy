@@ -29,5 +29,5 @@ I have hands-on experience building modern web applications using React and Next
 )
 
 ## ✉ How to reach me: 
-[LinkedIn](www.linkedin.com/in/anatolii-podyriako/) | [Telegram](https://t.me/zipper1899) | [Email](mailto:podyryakoanatoliy@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anatolii-podyriako/) | [Telegram](https://t.me/zipper1899) | [Email](mailto:podyryakoanatoliy@gmail.com)
 
